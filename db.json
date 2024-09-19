@@ -1,28 +1,20 @@
 {
-  "students": [
+  "profiles": [],
+  "users": [],
+  "students": [],
+  "courses": [
     {
       "id": 1,
-      "name": "John Doe",
-      "age": 26,
-      "address": "Nowhere"
+      "title": "Open Source",
+      "description": "Sample Course"
     },
     {
       "id": 2,
-      "name": "Jason Bourne",
-      "age": 34,
-      "address": "Unknown"
-    },
-    {
-      "id": 3,
-      "name": "William Norton",
-      "age": 38,
-      "address": "One Secret Place"
-    },
-    {
-      "name": "Mark Smith",
-      "age": 34,
-      "address": "The New City",
-      "id": 4
+      "title": "Web Applications",
+      "description": "Desc"
     }
-  ]
+  ],
+  "enrollments": [],
+  "progress-record-items": [],
+  "learning-path-items": []
 }
