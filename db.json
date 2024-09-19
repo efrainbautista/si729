@@ -14,7 +14,5 @@
       "description": "Desc"
     }
   ],
-  "enrollments": [],
-  "progress-record-items": [],
-  "learning-path-items": []
+  "enrollments": []
 }
